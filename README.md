@@ -1,4 +1,4 @@
-# SyncVR Mobile Developer Assestment 
+# SyncVR Mobile Developer Assesstment 
 
 The project is designed in 3 layers: data,
 domain and presentation
