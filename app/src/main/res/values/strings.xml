@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fibonacci Test</string>
+    <string name="get_you_lucky_fibonacci_number">Get your Lucky Fibonacci Number</string>
+    <string name="number_title_table">Number</string>
+    <string name="date_title_table">Date</string>
+    <string name="clear_log">Clear Log</string>
+</resources>
