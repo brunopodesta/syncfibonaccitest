@@ -1,5 +1,10 @@
 # SyncVR Mobile Developer Assesstment 
 
+The application provides the user with one random number from the Fibonacci sequence.
+To get the number the user presses a button and the number is displayed.
+As the user gets numbers a list is displayed showing previous numbers and the date they were generated.
+The user can clear the previous number registers using an option from the menu.
+
 The project is designed in 3 layers: data,
 domain and presentation
 - In the Data layer is the database, I use Room for the
